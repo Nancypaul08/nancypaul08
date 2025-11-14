@@ -1,7 +1,7 @@
-## Hey, I'm Nancy Paul <br>
+# Hey, I'm Nancy Paul <br>
 
 🎓 B.Tech Student | 💻 Full Stack Developer | 🔐 Cybersecurity & AI/ML Enthusiast  <br>
-# 💫 About Me:
+## 💫 About Me:
 💼 Software Developer & Cybersecurity Student<br>🔐 Passionate about security, networks, and safeguarding digital systems<br>🚀 Focused on writing clean, efficient, and scalable code<br>📚 Continuously learning, building real-world projects, and strengthening my security skillset<br>🤝 Open to collaboration on development and cybersecurity-related projects
 
 
